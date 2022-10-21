@@ -2,6 +2,7 @@
 
 
 # NOAA distill website template
+## I changed this to get Github to build page
 
 This is a distill website using RMarkdown and the postcards package to create the layout for the individual pages. Here postcards layout is only used for the index page, but you can use it for any page. See the [postcards](https://github.com/seankross/postcards) GitHub readme for the different layouts available.
 
